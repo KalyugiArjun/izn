@@ -1,0 +1,1 @@
+@include('admin.authority.award-nomination.index')
